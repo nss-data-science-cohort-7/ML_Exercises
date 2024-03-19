@@ -1,1 +1,1 @@
-# ML_Exercises
+# Machine Learning Exercises
